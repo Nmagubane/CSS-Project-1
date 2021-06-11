@@ -9,3 +9,7 @@ body {
 .answerBox {
     border: blue solid 2px;
 }
+
+#number1 {
+    background-color: yellow;
+}
